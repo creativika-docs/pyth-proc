@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Материалы по Python + Processing
 description:  Приходите к нам учиться
 show_downloads: false
+github:
+  is_project_page: false
