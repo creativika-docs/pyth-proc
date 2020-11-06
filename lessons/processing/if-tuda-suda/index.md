@@ -50,3 +50,5 @@ published: true
 4. Любая твоя анимация любого движения туда-сюда — как линейного, так и кругового. Движения рук, ног, крыльев, можно совместить движения отдельных частей с целым — например, идущий человек.
 
 ## Рефлексия
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSef9D7a9djQfWBiBFOY-3zIKQvFGCJSFtsM-stweM6r3U_2gQ/viewform?embedded=true" width="640" height="819" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
