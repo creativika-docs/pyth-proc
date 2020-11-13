@@ -1,7 +1,11 @@
-Короткие ссылки сюда
+---
+title: Материалы по курсу Python
+---
+
+## Короткие ссылки сюда
 [clc.to/ptdocs](https://clc.to/ptdocs)
 [bit.do/ptdocs](https://bit.do/ptdocs)
 
-Материалы
-[Ветвления — анимация «Туда-сюда»](/pyth-proc/lessons/processing/if-tuda-suda/)
+## Материалы
+[Ветвления — анимация «Туда-сюда»](/pyth-proc/lessons/processing/if-tuda-suda/)  
 [Ветвления — работа с мышью](/pyth-proc/if-mysh/)
