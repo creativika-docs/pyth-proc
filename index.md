@@ -3,4 +3,5 @@
 [bit.do/ptdocs](https://bit.do/ptdocs)
 
 Материалы
-[Ветвления — анимация «Туда-сюда»](https://creitivika-docs.github.io/pyth-proc/lessons/processing/if-tuda-suda/)
+[Ветвления — анимация «Туда-сюда»](pyth-proc/lessons/processing/if-tuda-suda/)
+[Ветвления — работа с мышью](/pyth-proc/if-mysh/)
