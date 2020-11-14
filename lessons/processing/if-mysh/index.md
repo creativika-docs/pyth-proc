@@ -8,6 +8,11 @@ published: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5JWtTkeGu_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+0:00 mousePressed
+04:07 mouseX, mouseY, pmouseX, pmouseY
+06:55 mouseButton
+10:46 mouseClicked()
+
 ### Примеры 
 
 1. mousePressed, на примере из Reference. 
