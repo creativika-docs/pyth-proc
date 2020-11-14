@@ -1,5 +1,6 @@
 ---
 title: Материалы по курсу Python
+published: true
 ---
 
 ## Короткие ссылки сюда
@@ -8,4 +9,4 @@ title: Материалы по курсу Python
 
 ## Материалы
 [Ветвления — анимация «Туда-сюда»](/pyth-proc/lessons/processing/if-tuda-suda/)  
-[Ветвления — работа с мышью](/pyth-proc/if-mysh/)
+[Ветвления — работа с мышью](/pyth-proc/lessons/processing/if-mysh/)
