@@ -8,5 +8,11 @@ published: true
 [bit.do/ptdocs](https://bit.do/ptdocs)
 
 ## Материалы
-[Ветвления — анимация «Туда-сюда»](/pyth-proc/lessons/processing/if-tuda-suda/)  
-[Ветвления — работа с мышью](/pyth-proc/lessons/processing/if-mysh/)
+1. 1 занятие
+1. 2 занятие
+1. 3 занятие
+1. 4 занятие
+1. [Ветвления — анимация «Туда-сюда»](/pyth-proc/lessons/processing/if-tuda-suda/)  
+1. [Ветвления — работа с мышью](/pyth-proc/lessons/processing/if-mysh/)
+1. [Ветвления — создаём кнопки](/pyth-proc/lessons/processing/if-buttons/)
+
