@@ -14,7 +14,7 @@ description: Жмяк-жмяк
 
 ## Примеры кода
 
-<code>
+<pre>
 bg = 0;
 
 def setup():
@@ -49,4 +49,4 @@ def mouseClicked():
         bg = 0
 
     
-</code>
+</pre>
