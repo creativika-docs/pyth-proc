@@ -14,6 +14,7 @@ description: Жмяк-жмяк
 
 ## Примеры кода
 
+### Код прямоугольной и круглой кнопки с нажатием
 ```
 bg = 0;
 
@@ -48,5 +49,13 @@ def mouseClicked():
     if sqrt(xDif*xDif + yDif*yDif) < 35:
         bg = 0
 
-    
+```
+
+### Код добавления и настройки текста
+```python
+size(400,600)
+textSize(20)
+fill(255)
+textAlign(CENTER,CENTER)
+text(u"Привет",200,300)
 ```
