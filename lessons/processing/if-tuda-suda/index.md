@@ -6,8 +6,11 @@ published: true
 # Ветвления — анимация «туда-сюда»
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZErlQZvsiwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 0:00 Что такое ветвление (if)
+
 [4:57](https://www.youtube.com/watch?v=ZErlQZvsiwo&t=297s) Сброс анимации к заданным параметрам
+
 [7:14](https://www.youtube.com/watch?v=ZErlQZvsiwo&t=434s) Анимация «Туда-сюда»
+
 [13:12](https://www.youtube.com/watch?v=ZErlQZvsiwo&t=792s) продвинутая анимация туда-сюда: сокращаем код
 
 ## Задания по теме «Ветвления — анимация туда-сюда»
