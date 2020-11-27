@@ -8,14 +8,14 @@ published: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5JWtTkeGu_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-0:00 mousePressed
-04:07 mouseX, mouseY, pmouseX, pmouseY
-06:55 mouseButton
+0:00 mousePressed  
+04:07 mouseX, mouseY, pmouseX, pmouseY  
+06:55 mouseButton  
 10:46 mouseClicked()
 
 ### Примеры 
 
-1. mousePressed, на примере из Reference. 
+1. mousePressed, на примере из Reference: [https://py.processing.org/reference/mousePressed_var.html](https://py.processing.org/reference/mousePressed_var.html)
 1. mouseX [https://py.processing.org/reference/mouseX.html](https://py.processing.org/reference/mouseX.html) 
 1. mouseY [https://py.processing.org/reference/mouseY.html](https://py.processing.org/reference/mouseY.html)
 1. pmouseX и pmouseY
