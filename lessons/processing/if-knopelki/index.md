@@ -125,4 +125,6 @@ ellipse(0,0,60,20) # координаты 0 0 чтобы вращаться во
 5. Точка бегает вправо-влево, отпечатывая след. Стрелками можно двигать её дополнительно вверх и вниз
 6. Свой проект с использованием клавиш
 
+## Рефлексия
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1n0yIH-nxvxXbpHoqq6hJMXGZDAka2f9VIjLhKQI2WLls5A/viewform?embedded=true" width="640" height="709" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
