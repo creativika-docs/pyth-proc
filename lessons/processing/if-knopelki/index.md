@@ -41,6 +41,8 @@ def draw():
 
     rect(25, 25, 50, 50)
 
+# Работает и для BACKSPACE, TAB, ENTER, RETURN, ESC, и DELETE
+
 ```
 
 Кроме символов, можно использовать клавиши, включённые в ASCII (BACKSPACE, TAB, ENTER, RETURN, ESC, и DELETE). Именно так и пишите,
