@@ -4,7 +4,7 @@ description: «Пока-пока-покачивая перьями на шляп
 ---
 
 # Цикл while
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Tkpyz8XTwc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Цикл While тоже используется для повторения одних и тех же действий, но его иногда удобнее использовать когда не знаешь заранее, сколько нужно будет сделать шагов, или не хочешь считать. А иногда без него и не обойтись. Вот как с помощью него можно построить ряд квадратов:
 ```python
