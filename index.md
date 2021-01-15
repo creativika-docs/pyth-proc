@@ -11,8 +11,8 @@ published: true
 1. 1 занятие
 1. 2 занятие 
 1. [Переносы и начало анимации](/pyth-proc/lessons/processing/perenaninatsija/)  
-1. 4 занятие
 1. [Переменные и анимация](/pyth-proc/lessons/processing/peremenatsyja)
+1. [Повороты и вращения](/pyth-proc/lessons/processing/povernisjapolubujus)
 1. [Ветвления — анимация «Туда-сюда»](/pyth-proc/lessons/processing/if-tuda-suda/)  
 1. [Ветвления — работа с мышью](/pyth-proc/lessons/processing/if-mysh/)
 1. [Ветвления — создаём кнопки](/pyth-proc/lessons/processing/if-buttons/)
