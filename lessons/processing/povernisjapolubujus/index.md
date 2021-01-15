@@ -4,7 +4,7 @@ published:true
 ---
 # Повороты и вращения
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Tw08RyFMsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9kCDgUhtXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Как повернуть фигуру относительно её центра? Перенести начало координат в центр фигуры с помощью translate():
 
