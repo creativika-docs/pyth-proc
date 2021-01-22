@@ -23,4 +23,5 @@ published: true
 1. [Вложенные циклы](/pyth-proc/lessons/processing/loop-loop/)
 
 ## Консольный Python (IDLE)
-[Введение](/pyth-proc/lessons/standard/introduction/)  
+[Введение](/pyth-proc/lessons/standard/introduction/)
+[Ветвления — «если», «иначе» и т.д.](/pyth-proc/lessons/standard/if-uf/)  
