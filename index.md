@@ -8,6 +8,7 @@ published: true
 [bit.do/ptdocs](https://bit.do/ptdocs)
 
 ## Python + Processing
+1. [Введение](/pyth-proc/lessons/processing/introduction/)  
 1. 1 занятие
 1. 2 занятие 
 1. [Переносы и начало анимации](/pyth-proc/lessons/processing/perenaninatsija/)  
@@ -22,3 +23,4 @@ published: true
 1. [Вложенные циклы](/pyth-proc/lessons/processing/loop-loop/)
 
 ## Консольный Python (IDLE)
+[Введение](/pyth-proc/lessons/standard/introduction/)  
