@@ -7,7 +7,7 @@ published: true
 [clc.to/ptdocs](https://clc.to/ptdocs)
 [bit.do/ptdocs](https://bit.do/ptdocs)
 
-## Материалы
+## Python + Processing
 1. 1 занятие
 1. 2 занятие 
 1. [Переносы и начало анимации](/pyth-proc/lessons/processing/perenaninatsija/)  
@@ -19,3 +19,6 @@ published: true
 1. [Ветвления — работа с клавиатурой](/pyth-proc/lessons/processing/if-knopelki/)
 1. Введение в цикл for
 1. [Цикл While](/pyth-proc/lessons/processing/loop-while/)
+1. [Вложенные циклы](/pyth-proc/lessons/processing/loop-loop/)
+
+## Консольный Python (IDLE)
