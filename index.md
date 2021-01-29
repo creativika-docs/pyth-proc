@@ -24,5 +24,6 @@ published: true
 1. [Спискм](/pyth-proc/lessons/processing/listiki/)
 
 ## Консольный Python (IDLE)
+
 [Введение](/pyth-proc/lessons/standard/introduction/)
 [Ветвления — «если», «иначе» и т.д.](/pyth-proc/lessons/standard/if-uf/)
