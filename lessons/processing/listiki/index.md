@@ -1,3 +1,9 @@
+---
+title: Списки
+description: «Огласите всь списк, пжалуйста»
+
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sRRhfr4IShc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Задания
@@ -8,5 +14,3 @@
 1. Создать проект, в котором при нажатии создаются новые круги на холсте.
 1. «Снег». Белые точки разных размеров с разными скоростями падают сверху вниз на чёрном фоне
 1. Придумай свой проект с использованием массивов
-
-
