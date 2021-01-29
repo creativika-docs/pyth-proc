@@ -21,7 +21,7 @@ published: true
 1. Введение в цикл for
 1. [Цикл While](/pyth-proc/lessons/processing/loop-while/)
 1. [Вложенные циклы](/pyth-proc/lessons/processing/loop-loop/)
-1. [Спискм](/pyth-proc/lessons/processing/listiki/)
+1. [Списки](/pyth-proc/lessons/processing/listiki/)
 
 ## Консольный Python (IDLE)
 
