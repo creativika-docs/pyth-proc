@@ -23,6 +23,7 @@ published: true
 1. [Вложенные циклы](/pyth-proc/lessons/processing/loop-loop/)
 1. [Списки](/pyth-proc/lessons/processing/listiki/)
 1. [Добавляем элементы списка](/pyth-proc/lessons/processing/addremlist/)
+1. [Слайдеры](/pyth-proc/lessons/processing/sliders/)
 
 ## Консольный Python (IDLE)
 
