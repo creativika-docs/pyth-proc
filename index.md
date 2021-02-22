@@ -18,7 +18,7 @@ published: true
 1. [Ветвления — работа с мышью](/pyth-proc/lessons/processing/if-mysh/)
 1. [Ветвления — создаём кнопки](/pyth-proc/lessons/processing/if-buttons/)
 1. [Ветвления — работа с клавиатурой](/pyth-proc/lessons/processing/if-knopelki/)
-1. Введение в цикл for
+1. [Введение в цикл for](/pyth-proc/lessons/processing/loop-loop/)
 1. [Цикл While](/pyth-proc/lessons/processing/loop-while/)
 1. [Вложенные циклы](/pyth-proc/lessons/processing/loop-loop/)
 1. [Списки](/pyth-proc/lessons/processing/listiki/)
