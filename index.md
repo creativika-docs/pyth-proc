@@ -24,6 +24,7 @@ published: true
 1. [Списки](/pyth-proc/lessons/processing/listiki/)
 1. [Добавляем элементы списка](/pyth-proc/lessons/processing/addremlist/)
 1. [Слайдеры](/pyth-proc/lessons/processing/sliders/)
+1. [Клетчатое поле](/pyth-proc/lessons/processing/kakaokletochka/)
 
 ## Консольный Python (IDLE)
 
