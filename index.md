@@ -8,6 +8,10 @@ published: true
 [bit.do/ptdocs](https://bit.do/ptdocs)
 
 ## Python + Processing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CoRpaufV2Lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 1. [Введение](/pyth-proc/lessons/processing/introduction/)  
 1. 1 занятие
 1. 2 занятие 
