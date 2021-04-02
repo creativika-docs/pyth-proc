@@ -32,6 +32,7 @@ published: true
 1. [Создаём свою команду](/pyth-proc/lessons/processing/mycom/)
 1. [Создаём свою функцию](/pyth-proc/lessons/processing/myfunc/)
 1. [Рекурсия и фракталы](/pyth-proc/lessons/processing/rec/)
+1. [Объекты](/pyth-proc/lessons/processing/objects/)
 
 ## Консольный Python (IDLE)
 
